@@ -6,7 +6,4 @@ The skills I learned have allowed me to take on more challenging projects and ha
 ![1](https://user-images.githubusercontent.com/75542099/226171327-df7045b9-f180-4a06-b9a3-d52ed9a8fb05.png)
 ![2](https://user-images.githubusercontent.com/75542099/226171329-9a9ee868-cf80-45f9-82a1-b9130ca8b4e8.png)
 ![3](https://user-images.githubusercontent.com/75542099/226171330-a446fb64-cc96-46c4-9bcc-e8c92fe7bec5.png)
-<img src="https://user-images.githubusercontent.com/75542099/226171327-df7045b9-f180-4a06-b9a3-d52ed9a8fb05.png" alt="Image" width="300" height="300">
-<img src="https://user-images.githubusercontent.com/75542099/226171329-9a9ee868-cf80-45f9-82a1-b9130ca8b4e8.png" alt="Image" width="300" height="300">
-<img src="https://user-images.githubusercontent.com/75542099/226171330-a446fb64-cc96-46c4-9bcc-e8c92fe7bec5.png" alt="Image" width="300" height=300">
-
+https://www.cloudskillsboost.google/public_profiles/45a3f047-4730-4f45-88d7-7c97a062bac7/badges/3328661
